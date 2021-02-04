@@ -1,5 +1,6 @@
 
-
+num = int(input("Enter your value: "))
+print(num)
 
 
 factorial = 1
